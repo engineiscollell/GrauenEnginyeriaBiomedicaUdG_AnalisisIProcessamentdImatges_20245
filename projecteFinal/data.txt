@@ -1,0 +1,1 @@
+El dataset utilitzat és public a la web oficial del projecte Pascal 2017.
